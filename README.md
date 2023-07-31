@@ -11,3 +11,4 @@ Just in like road-sign classifier, I incorporated different techniques such as d
 
 ![](https://github.com/Rietchie0119/Lane-detection/assets/28763133/a366f0c8-7594-47fe-8a61-117209363cfc)<br/>
 We're getting approximately 3.95% training loss and 2.93% on validation loss, which means that the model is doing pretty good on predictions.<br/>
+See Behavioral_Cloning.ipynb and drive.py to get full details.
